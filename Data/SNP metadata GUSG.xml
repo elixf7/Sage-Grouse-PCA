@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Shawna Zimmerman</origin>
+        <origin>Sara Oyler-McCance</origin>
+        <origin>Cameron Aldridge</origin>
+        <origin>Kevin Oh</origin>
+        <origin>Scott Cornman</origin>
+        <pubdate>20200513</pubdate>
+        <title>Sample collection information and SNP data for Gunnison Sage-grouse across the species range generated in the Molecular Ecology Lab during 2015-2018</title>
+        <geoform>tabular digital data</geoform>
+        <onlink>https://doi.org/10.5066/P94ET592</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Shawna Zimmerman</origin>
+            <origin>Sara Oyler-McCance</origin>
+            <pubdate>2019</pubdate>
+            <title>Signatures of adaptive divergence among populations of Gunnison Sage-grouse across their range</title>
+            <geoform>publication</geoform>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset contains sample collection information and SNP genotypes for populations of Gunnison Sage-grouse across the species' range. This data was collected in order to examine patterns of adaptive genetic variation in Gunnison Sage-grouse. The data is archived in GenBank at the following URL https://www.ncbi.nlm.nih.gov/bioproject/517770.</abstract>
+      <purpose>Data was collected to look for evidence of local adaptation in populations of Gunnison Sage-grouse</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>19950101</begdate>
+          <enddate>20050101</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-109.2920</westbc>
+        <eastbc>-105.7764</eastbc>
+        <northbc>39.2663</northbc>
+        <southbc>37.0552</southbc>
+      </bounding>
+      <descgeog>Southwestern Colorado and Southeastern Utah</descgeog>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:5cc0d333e4b09b8c0b726ce3</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Southwestern Colorado</placekey>
+        <placekey>Southeastern Utah</placekey>
+      </place>
+    </keywords>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>None.  Users are advised to read the data set's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Sara J Oyler-McCance</cntper>
+          <cntorg>U.S. Geological Survey, Southwest Region</cntorg>
+        </cntperp>
+        <cntpos>Research Geneticist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>2150 Centre Avenue Bldg C</address>
+          <city>Fort Collins</city>
+          <state>CO</state>
+          <postal>80526</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>970-226-9197</cntvoice>
+        <cntfax>970-226-9230</cntfax>
+        <cntemail>sara_oyler-mccance@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>RS Cornman and SJ Oyler-McCance:  U.S. Geological Survey, Fort Collins Science Center, Fort Collins, Colorado, USA
+
+CL Aldridge, SJ ZImmerman, KP Oh:  Natural Resource Ecology Laboratory and Department of Ecosystem Science and Sustainability, Colorado State University, Fort Collins, Colorado, USA, in cooperation with the U.S. Geological Survey</datacred>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>Centrocercus minimus</taxonkey>
+      </keywtax>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <taxoncl>
+          <taxonrn>Subkingdom</taxonrn>
+          <taxonrv>Bilateria</taxonrv>
+          <taxoncl>
+            <taxonrn>Infrakingdom</taxonrn>
+            <taxonrv>Deuterostomia</taxonrv>
+            <taxoncl>
+              <taxonrn>Phylum</taxonrn>
+              <taxonrv>Chordata</taxonrv>
+              <taxoncl>
+                <taxonrn>Subphylum</taxonrn>
+                <taxonrv>Vertebrata</taxonrv>
+                <taxoncl>
+                  <taxonrn>Infraphylum</taxonrn>
+                  <taxonrv>Gnathostomata</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Superclass</taxonrn>
+                    <taxonrv>Tetrapoda</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Aves</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Galliformes</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Phasianidae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Subfamily</taxonrn>
+                            <taxonrv>Tetraoninae</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Genus</taxonrn>
+                              <taxonrv>Centrocercus</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Species</taxonrn>
+                                <taxonrv>Centrocercus minimus</taxonrv>
+                                <common>TSN: 677540</common>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted.</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted.</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract.  Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>A formal accuracy assessment of the horizontal positional information in the data set has not been conducted.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>A formal accuracy assessment of the vertical positional information in the data set has either not been conducted, or is not applicable.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Sample collection and DNA extraction
+We obtained blood samples from across the species’ range. Samples were acquired through capture-and-release of adults and collection of  blood via toenail clipping or brachial venipuncture. DNA extraction occurred in U.S. Geological Survey laboratories in Fort Collins (Fort Collins Science Center) and in Denver (Rocky Mountain Center for Conservation Genetics and Systematics). Extraction methods varied among laboratories. Blood samples were extracted using a standard phenol-chloroform protocol or an ammonium acetate protocol. All subsequent laboratory methods were performed at the Fort Collins Science Center.
+
+Library Preparation
+We accomplished SNP identification using an adapted version of the ddRAD protocol as first described by Peterson and colleagues (2012). The double digestion utilizes two digestion enzymes which cut the DNA at different frequencies. We used Sau3AI (5,000 units ml-1; New England BioLabs Ipswich, Massachusetts, USA) as our common four cutter and SPEI (10,000 units ml-1; New England BioLabs Ipswich, Massachusetts, USA) as our rare six cutter. The digestion reaction for each sample had a total volume of 20 µl: 2 µl T4 10x DNA ligase buffer (New England BioLabs, Ipswich, Massachusetts, USA), 0.2 µl Bovine Serum Albumin (BSA; New England BioLabs, Ipswich, Massachusetts, USA), 1 µl of each digestion enzyme, 2.8 µl of double-deionized water, and 13 µl of whole genomic DNA adjusted to a concentration of 77 ng µl-1. The digestion was accomplished by incubating all samples at 37 °C for 2 hours, then increasing the heat to 65 °C for 15 minutes to kill enzymes, and finally cooling the reaction back to 37 °C and holding at temperature. While at 37 °C, 1 µl of 10 µM stocks of P1 and P2 (individually barcoded) restriction site associated adaptors (Integrated DNA Technologies, Coralville, Iowa, USA) were added to each sample and left to equilibrate for 3 minutes in order to allow adapter dimers to separate. Additionally the P1/P2 adapter included a degenerate base region to allow identification of PCR duplicates in the bioinformatics stage (Schweyen et al. 2014). Once the reaction was in equilibrium, 1 µl of T4 ligase (400,000 units ml-1; New England BioLabs, Ipswich, Massachusetts, USA) was added to each sample.  In order for the adapters to ligate to the digested DNA the temperature was then reduced to 16 °C and held for 30 minutes. The ligase was inactivated through holding the temperature at 65˚C for 20 minutes. The ligation reaction was then diluted with 80 µl of ddH2O and then cleaned using 65 µl of SPRI beads (Applied Biological Materials inc., Richmond, British Columbia, Canada) to remove adapter dimers present in the reaction. To amplify DNA fragments we performed a 10 µl PCR reaction using 2 µl of cleaned ligation for each sample, 1 µl 10x Buffer (Fisher Scientific, Hampton, New Hampshire, USA), 1 µl dNTPs, 0.2 µl each of the forward and reverse primers, 0.2 µl Amplitag Gold (Fisher Scientific, Hampton, New Hampshire, USA), and 5.4 µl ddH2O. The thermocycler protocol for the PCR consisted of 22 cycles of the following: 95 °C for 30 s, 55 °C for 30 s, and 72 °C for 30 s. Each sample was amplified with 9 independent replicates, with all PCR replicates for a sample being pooled into a single sample in an effort to identify and reduce the effects of PCR error. A 16 µl aliquot of the pooled PCR replicates for each sample were then pooled into a single Eppendorf tube creating a multi-sample pool, which was then cleaned with SPRI beads in a 1:1 ratio to remove PCR dimers and small size amplicons. We performed a final size selection step using the Pippen Prep (Sage Science, Beverly, Massachusetts, USA) selecting for fragments between 300 and 500 base pairs. The final size selected library was sent to the Genomics and Cell Characterization Core Facility at the University of Oregon in Eugene, Oregon and was sequenced on the Illumina HiSeq 2500 platform (Illumina, San Diego, California, USA). 
+
+Sequence Data Processing and Genotyping
+Raw sequencing reads were trimmed at a maximum error probability of 0.05 using CLC Genomics v. 9.5 (Qiagen, Hilden, Germany), allowing at most two ambiguous bases. Reads were mapped to the Gunnison sage-grouse draft genome assembly (Oh et al. in review) with bowtie2 (Langmead and Salzberg 2012) using the “very-sensitive” and “end-to-end” parameter sets, and filtered on a mapping quality of 20 (Phred-scaled) with the samtools/bcftools package, v. 1.3 (Li et al. 2009). Potential PCR duplicates were removed by processing unique molecular identifiers with the UMI-tools package (Smith et al. 2017), using the “unique” identifier detection algorithm. 
+
+The samtools/bcftools package was used to merge alignments and identify variant sites in the reference genome. Base composition at sites was computed with the mpileup function using the recommended map-quality adjustment (“-C” set to 50) and base-alignment qualities recalculated from the combined data. Indels were called for the purposes of filtering nearby SNP sites (within 3 bp) that could be affected by local misalignment, but were not otherwise used. Genotype likelihoods were estimated with the bcftools call function using the multiallelic model, although only biallelic loci were retained. SNP loci were further filtered by requiring a minimum coverage of 960X across all individuals (based on an average of 15X per sequenced individual) and called genotypes for at least 50 of the total 64 individuals. Loci potentially located on sex chromosomes were removed using both coverage and homology information: SNPs on scaffolds putatively homologous with the sex chromosomes of Gallus gallus (Oh et al. in review) were excluded, as were SNPs with unequal coverage in males and females (i.e., if the ratio of male to female mean coverage was outside the range 0.9-1.2). We excluded potentially sex-linked loci because the proportion of each sex sampled in each population was variable and we wanted to reduce the likelihood of false positives for adaptive divergence due to sampling bias at sex-linked loci. Sites with low-frequency minor alleles (below 5%) were also excluded. In addition to filtering variant sites based on these locus-based criteria, individual genotype calls were removed if coverage was less than 10X for an individual at a given location, regardless of whether a genotype was called by bcftools. After excluding four of the 64 sequenced individuals due to low coverage overall, the final data set included 15,033 loci across 35 “pseudo-chromosomes” (chromosome scaffolds inferred from synteny with chicken) for 60 individuals (four Cimarron, 12 Crawford, 12 Dove Creek, 12 Gunnison Basin, 10 Pinon Mesa, and 10 San Miguel).
+
+References
+Langmead, B., and S. L. Salzberg. 2012. Fast gapped-read alignment with Bowtie 2. Nat Methods 9:357–359.
+Li, H., B. Handsaker, A. Wysoker, T. Fennell, J. Ruan, N. Homer, G. Marth, G. Abecasis, and R. Durbin. 2009. The sequence alignment/map format and SAMtools. Bioinformatics 25:2078–2079.
+Oh, K. P., C. L. Aldridge, J. S. Forbey, C. Y. Dadabay, and S. J. Oyler-McCance. In Review. Conservation genomics in the sagebrush sea: Population divergence and adaptive metabolic variation in sage-grouse. 
+Peterson, B. K., J. N. Weber, E. H. Kay, H. S. Fisher, and H. E. Hoekstra. 2012. Double digest RADseq: an inexpensive method for de novo SNP discovery and genotyping in model and non-model species. PLoS one 7:e37135.
+Schweyen, H., A. Rozenberg, and F. Leese. 2014. Detection and removal of PCR duplicates in population genomic ddRAD studies by addition of a degenerate base region (DBR) in sequencing adapters. Biological Bulletin 227:146–160.
+Smith, T., A. Heger, and I. Sudbery. 2017. UMI-tools: Modeling sequencing errors in unique molecular identifiers to improve quantification accuracy. Genome Research 27:491–499.</procdesc>
+        <procdate>20171231</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>accession_numbers.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>biosample_accession</attrlabl>
+        <attrdef>This number represents the accession number that can be accessed in NCBI GenBank. See URL https://www.ncbi.nlm.nih.gov/genbank/  and click on the BIOsample dropdown menu and type in the biosample accession number to access.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Free text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>sample_id</attrlabl>
+        <attrdef>This identification number represents each individual that was sampled and is referenced in the paper by Zimmerman et al. 2019. The entire data set can be accessed in the Bioproject in GenBank at https://www.ncbi.nlm.nih.gov/bioproject/517770</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Free text</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>The data are presented in Variant Call Format (VCF), which is a standard format for storing DNA polymorphism data such as SNPs, insertions, deletions and structural variations, together with annotations.  
+
+Descriptions of the VCF can be found at:
+
+https://doi.org/10.1093/bioinformatics/btr330
+
+Our data are in VCF version 4.2 with an additional file (accession numbers.xml) linking samples to accession numbers in Genbank.</eaover>
+      <eadetcit>Petr Danecek, Adam Auton, Goncalo Abecasis, Cornelis A. Albers, Eric Banks, Mark A. DePristo, Robert E. Handsaker, Gerton Lunter, Gabor T. Marth, Stephen T. Sherry, Gilean McVean, Richard Durbin, ; The variant call format and VCFtools, Bioinformatics, Volume 27, Issue 15, 1 August 2011, Pages 2156–2158, https://doi.org/10.1093/bioinformatics/btr330</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>GS ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P94ET592</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20200820</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Sara J Oyler-McCance</cntper>
+          <cntorg>U.S. Geological Survey, Southwest Region</cntorg>
+        </cntperp>
+        <cntpos>Research Geneticist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>2150 Centre Avenue Bldg C</address>
+          <city>Fort Collins</city>
+          <state>CO</state>
+          <postal>80526</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>970-226-9197</cntvoice>
+        <cntfax>970-226-9230</cntfax>
+        <cntemail>sara_oyler-mccance@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
