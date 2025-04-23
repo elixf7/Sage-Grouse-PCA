@@ -37,7 +37,7 @@ I decided to work on two projects:
 
    **Load and Clean Data**
 
-   - Load the raw sequence datae
+   - Load the raw sequence data
    - Clean it in a way that will work with PCA and plotting
 
    **Perform PCA**
